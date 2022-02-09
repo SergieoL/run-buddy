@@ -267,4 +267,13 @@ section {
   color: #fce138;
 }
 
+.hero-cta h2 {
+  color: #fce138;
+  font-size: 44px;
+}
+
+.hero-cta p {
+  color: white;
+  text-align: right;
+}
 /* REACH OUT STYLES END */
